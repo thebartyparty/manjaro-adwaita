@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="0" last-seen="1591891494"/>
+    <application id="gnome-control-center.desktop" score="0" last-seen="1591891248"/>
+    <application id="org.gnome.tweaks.desktop" score="5" last-seen="1591891349"/>
+  </context>
+</application-state>

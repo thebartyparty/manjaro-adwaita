@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install Manjaro Linux
+Exec=/usr/bin/calamares_polkit
+Icon=calamares
+Terminal=true
+StartupNotify=true
