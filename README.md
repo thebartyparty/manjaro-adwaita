@@ -1,5 +1,5 @@
 # manjaro-adwaita
-Manjaro GNOME. With the stuff you love about manjaro, without the bloated themes you hate about manjaro.!!
+Manjaro GNOME. With the stuff you love about manjaro, without the bloated themes you hate about manjaro.
 [https://thebartyparty.github.io/manjaro-adwaita/](https://thebartyparty.github.io/manjaro-adwaita/)
 
 iso-profiles
